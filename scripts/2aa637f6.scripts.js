@@ -1,0 +1,1 @@
+"use strict";angular.module("madlibApp",[]),angular.module("madlibApp").controller("MainCtrl",["$scope",function(a){a.awesomeThings=["HTML5 Boilerplate","AngularJS","Karma"]}]);
